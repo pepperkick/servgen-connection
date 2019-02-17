@@ -1,0 +1,18 @@
+{
+  "name": "@pepperkick/servgen-connection",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "PepperKick",
+  "license": "ISC",
+  "dependencies": {
+    "@abskmj/mongen": "github:abskmj/mongen#ec2eee18bc0b9f8a90731c0df19a6686587621d7",
+    "mongoose": "^5.4.12"
+  },
+  "engines": {
+    "node": ">=7.6.0"
+  }
+}
