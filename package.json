@@ -9,7 +9,7 @@
   "author": "PepperKick",
   "license": "ISC",
   "dependencies": {
-    "@abskmj/mongen": "github:abskmj/mongen#ec2eee18bc0b9f8a90731c0df19a6686587621d7",
+    "@abskmj/mongen": "github:abskmj/mongen#c0f8a3a8bd559455455c1600f766d4fec402c0f6",
     "mongoose": "^5.4.12"
   },
   "engines": {
