@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "@abskmj/mongen": "github:abskmj/mongen#2c2283e7ab572f12fd44f05483fb3c3875b5619f",
-    "mongoose": "^5.4.12"
+    "mongoose": "^5.7.5"
   },
   "engines": {
     "node": ">=7.6.0"
